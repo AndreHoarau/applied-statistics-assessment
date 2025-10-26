@@ -6,7 +6,11 @@ My assessment for applied statistics module at ATU Galway.
 * Author: [Andre Hoarau](https://github.com/AndreHoarau)
 * Lecturer: [Dr. Ian McLoughlin](https://github.com/ianmcloughlin)
 ##
-How to run this notebook: Need to make a note on installing the requirements.txt to ensure that the correct applications are installed
+How to run this notebook: 
+1. Clone the repository onto your local machine
+`git clone https://github.com/AndreHoarau/applied-statistics-assessment `
+2. Install requirements
+
 ## Purpose of the Assessment
 
 The goal of this assessment is to demonstrate the following abilities:
