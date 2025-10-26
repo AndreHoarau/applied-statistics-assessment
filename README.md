@@ -10,10 +10,21 @@ How to run this notebook:
 1. Clone the repository onto your local machine
 `git clone https://github.com/AndreHoarau/applied-statistics-assessment `
 2. Install requirements
+`pip install -r requirements.txt`
+3. Navigate to the Jupyter notebook problems.ipynb using the vscode interface
+4. Ensure you have the Jupyter extension installed
+5. Run the notebook using VScode's integrated view.
+Alternatively the jupyter notebook will render and be readable directly on github.
+
+
 
 ## Purpose of the Assessment
 
-The goal of this assessment is to demonstrate the following abilities:
+The goal of this assessment is to demonstrate the following abilities through my problems.ipynb notebook:
+- Describe the stochastic nature of real-world measurements.
+- Source documentation to programmatically perform a statistical test.
+- Select an appropriate statistical test to investigate a claim.
+- Perform a statistical test on a data set.
 
 ---
 
