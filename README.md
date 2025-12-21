@@ -52,6 +52,8 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
+- Alternatively you can view the rendered Jupyter notebook in Github directly as I have run and executed the cells. 
+
 ---
 
 For any questions or feedback, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/andre-hoarau/)
