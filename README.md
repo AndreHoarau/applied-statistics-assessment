@@ -16,11 +16,14 @@ The assessment is implemented in a single Jupyter notebook (`problems.ipynb`) an
 ---
 
 ## Repository Contents
+
+```text
 applied-statistics-assessment/
 ├── problems.ipynb        # Main assessment notebook (all solutions and analysis)
 ├── README.md             # Project overview and setup instructions
 ├── requirements.txt      # Python dependencies required to run the notebook
 └── .gitignore            # Git exclusions for Python/Jupyter projects
+
 
 ## Purpose of the Assessment
 
@@ -47,7 +50,7 @@ git clone https://github.com/AndreHoarau/applied-statistics-assessment.git
 cd applied-statistics-assessment
 pip install -r requirements.txt
 jupyter lab
-
+```
 
 ---
 
