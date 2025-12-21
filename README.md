@@ -52,7 +52,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-- Alternatively you can view the rendered Jupyter notebook in Github directly as I have run and executed the cells. 
+- Alternatively you can view the rendered [Jupyter notebook in Github](https://github.com/AndreHoarau/applied-statistics-assessment/blob/main/problems.ipynb) directly as I have run and executed the cells. 
 
 ---
 
