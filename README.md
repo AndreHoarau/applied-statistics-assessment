@@ -23,7 +23,7 @@ applied-statistics-assessment/
 ├── README.md             # Project overview and setup instructions
 ├── requirements.txt      # Python dependencies required to run the notebook
 └── .gitignore            # Git exclusions for Python/Jupyter projects
-
+```
 
 ## Purpose of the Assessment
 
